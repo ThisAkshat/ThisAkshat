@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1200&color=F5C16C&background=0D1117&center=true&vCenter=true&width=700&lines=Python+Developer;NLP+%26+Backend+Engineer;Building+ResumeMatch;Shipping+Real+Projects;Open+to+Internships)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1200&color=F5C16C&background=0D1117&center=true&vCenter=true&width=700&lines=Python+Developer;NLP+%26+Backend+Engineer;Building+Sign-Bridge;Shipping+Real+Projects)
 
 
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThisAkshat&theme=github-compact) -->
