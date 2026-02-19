@@ -21,6 +21,11 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-blue.svg?color_snake=1F6FEB&color_dots=#0D1117,#161B22,#1F6FEB,#388BFD,#58A6FF
+            dist/github-snake-purple.svg?color_snake=9D4EDD&color_dots=#0D1117,#240046,#5A189A,#7B2CBF,#9D4EDD
+            dist/github-snake-cyan.svg?color_snake=00F5FF&color_dots=#0D1117,#003566,#0077B6,#00B4D8,#00F5FF
+            dist/github-snake-matrix.svg?color_snake=00FF88&color_dots=#0D1117,#003B00,#007200,#00A000,#00FF88
+            dist/github-snake-red.svg?color_snake=FF2E63&color_dots=#0D1117,#3A0CA3,#7209B7,#F72585,#FF2E63
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
