@@ -103,14 +103,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=ThisAkshat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github-trophies.vercel.app/?username=ThisAkshat&theme=matrix)
 
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-![snake gif](https://github.com/ThisAkshat/ThisAkshat/blob/output/github-snake-dark.svg)
 
+![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-cyan.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThisAkshat&icon=0&color=0)](https://visitcount.itsvg.in)
