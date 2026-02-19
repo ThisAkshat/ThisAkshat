@@ -87,11 +87,22 @@
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThisAkshat&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThisAkshat&theme=transparent&hide_border=false">
+
+## ⚡ SYSTEM ANALYTICS
+
+<div align="center">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThisAkshat&theme=transparent&hide_border=true">
-![](https://nirzak-streak-stats.vercel.app/?user=ThisAkshat&theme=shadow_blue&hide_border=false)<br/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityatiwari12&langs_count=10&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=ffffff"/>
+
+<br/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ThisAkshat&theme=transparent&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideLabels=00F7F7&dates=ffffff" width="60%"/>
+
+<br/>
+
+</div>
 
 
 
@@ -99,14 +110,14 @@
 <!-- <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThisAkshat&theme=transparent&hide_border=false"> -->
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThisAkshat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![](https://github-trophies.vercel.app/?username=ThisAkshat&theme=matrix)
+## 🔥 Proof of Work
+![](https://github-trophies.vercel.app/?username=ThisAkshat&theme=darkhub&title=Commits,Repositories,LongTimeUser,Star,MultiLanguage)
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=00000000) -->
+
 
 
 ![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-cyan.svg)
