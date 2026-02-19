@@ -1,7 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1200&color=1F6FEB&background=0D1117&center=true&vCenter=true&width=700&lines=Python+Developer;NLP+%26+Backend+Engineer;Building+Sign-Bridge;Shipping+Real+Projects)
 
-
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThisAkshat&theme=github-compact) -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=4"/>
+
 
 ## 💫 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦
 
@@ -40,6 +42,7 @@
 </a>
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F7F7&height=60&section=footer"/>
 
 # 💻 Tech Stack
 
@@ -91,8 +94,8 @@
 ## ⚡ SYSTEM ANALYTICS
 
 <div align="center">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThisAkshat&theme=transparent&hide_border=true">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityatiwari12&langs_count=10&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=ffffff"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThisAkshat&theme=nord_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThisAkshat&theme=nord_dark"/>
 
 <br/>
 
@@ -103,6 +106,7 @@
 <br/>
 
 </div>
+
 
 
 
