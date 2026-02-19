@@ -125,6 +125,7 @@
 
 
 ![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-cyan.svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0D1117&height=60&section=footer"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThisAkshat&icon=0&color=0)](https://visitcount.itsvg.in)
