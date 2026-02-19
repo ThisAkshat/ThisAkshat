@@ -1,18 +1,16 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1200&color=00F7FF&background=0D1117&center=true&vCenter=true&width=700&lines=Python+Developer;NLP+%26+Backend+Engineer;Building+Sign-Bridge;Shipping+Real+Projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1200&color=1F6FEB&background=0D1117&center=true&vCenter=true&width=700&lines=Python+Developer;NLP+%26+Backend+Engineer;Building+Sign-Bridge;Shipping+Real+Projects)
 
 
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThisAkshat&theme=github-compact) -->
 
+## 💫 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦
 
-## 💫 About Me
-
-- Working on end-to-end data analysis projects and scalable software solutions, combining analytics with solid engineering.
-- Open to collaborating on real-world data-driven applications, AI/ML tools, and cross-functional software projects.
-- Looking for guidance on ML model deployment, data pipeline optimization, and production-level system design.
-- Currently learning advanced data visualization, cloud deployment, and distributed computing for large-scale datasets.
-- Ask me about customer behavior & pizza sales analysis using Python, Power BI, and SQL, or building AI-based facial recognition and sign language translation systems.
-- Fun fact: Solved 220+ LeetCode problems, but the most satisfying bug fix still happened at 3 AM.
-
+- 𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘦𝘯𝘥-𝘵𝘰-𝘦𝘯𝘥 𝘥𝘢𝘵𝘢 𝘢𝘯𝘢𝘭𝘺𝘴𝘪𝘴 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘢𝘯𝘥 𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴, 𝘤𝘰𝘮𝘣𝘪𝘯𝘪𝘯𝘨 𝘢𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘴 𝘸𝘪𝘵𝘩 𝘴𝘰𝘭𝘪𝘥 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨.
+- 𝘖𝘱𝘦𝘯 𝘵𝘰 𝘤𝘰𝘭𝘭𝘢𝘣𝘰𝘳𝘢𝘵𝘪𝘯𝘨 𝘰𝘯 𝘳𝘦𝘢𝘭-𝘸𝘰𝘳𝘭𝘥 𝘥𝘢𝘵𝘢-𝘥𝘳𝘪𝘷𝘦𝘯 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴, 𝘈𝘐/𝘔𝘓 𝘵𝘰𝘰𝘭𝘴, 𝘢𝘯𝘥 𝘤𝘳𝘰𝘴𝘴-𝘧𝘶𝘯𝘤𝘵𝘪𝘰𝘯𝘢𝘭 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴.
+- 𝘓𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘨𝘶𝘪𝘥𝘢𝘯𝘤𝘦 𝘰𝘯 𝘔𝘓 𝘮𝘰𝘥𝘦𝘭 𝘥𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵, 𝘥𝘢𝘵𝘢 𝘱𝘪𝘱𝘦𝘭𝘪𝘯𝘦 𝘰𝘱𝘵𝘪𝘮𝘪𝘻𝘢𝘵𝘪𝘰𝘯, 𝘢𝘯𝘥 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯-𝘭𝘦𝘷𝘦𝘭 𝘴𝘺𝘴𝘵𝘦𝘮 𝘥𝘦𝘴𝘪𝘨𝘯.
+- 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘥𝘢𝘵𝘢 𝘷𝘪𝘴𝘶𝘢𝘭𝘪𝘻𝘢𝘵𝘪𝘰𝘯, 𝘤𝘭𝘰𝘶𝘥 𝘥𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵, 𝘢𝘯𝘥 𝘥𝘪𝘴𝘵𝘳𝘪𝘣𝘶𝘵𝘦𝘥 𝘤𝘰𝘮𝘱𝘶𝘵𝘪𝘯𝘨 𝘧𝘰𝘳 𝘭𝘢𝘳𝘨𝘦-𝘴𝘤𝘢𝘭𝘦 𝘥𝘢𝘵𝘢𝘴𝘦𝘵𝘴.
+- 𝘈𝘴𝘬 𝘮𝘦 𝘢𝘣𝘰𝘶𝘵 𝘤𝘶𝘴𝘵𝘰𝘮𝘦𝘳 𝘣𝘦𝘩𝘢𝘷𝘪𝘰𝘳 & 𝘱𝘪𝘻𝘻𝘢 𝘴𝘢𝘭𝘦𝘴 𝘢𝘯𝘢𝘭𝘺𝘴𝘪𝘴 𝘶𝘴𝘪𝘯𝘨 𝘗𝘺𝘵𝘩𝘰𝘯, 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐, 𝘢𝘯𝘥 𝘚𝘘𝘓, 𝘰𝘳 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘈𝘐-𝘣𝘢𝘴𝘦𝘥 𝘧𝘢𝘤𝘪𝘢𝘭 𝘳𝘦𝘤𝘰𝘨𝘯𝘪𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘴𝘪𝘨𝘯 𝘭𝘢𝘯𝘨𝘶𝘢𝘨𝘦 𝘵𝘳𝘢𝘯𝘴𝘭𝘢𝘵𝘪𝘰𝘯 𝘴𝘺𝘴𝘵𝘦𝘮𝘴.
+- 𝘍𝘶𝘯 𝘧𝘢𝘤𝘵: 𝘚𝘰𝘭𝘷𝘦𝘥 220+ 𝘓𝘦𝘦𝘵𝘊𝘰𝘥𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴, 𝘣𝘶𝘵 𝘵𝘩𝘦 𝘮𝘰𝘴𝘵 𝘴𝘢𝘵𝘪𝘴𝘧𝘺𝘪𝘯𝘨 𝘣𝘶𝘨 𝘧𝘪𝘹 𝘴𝘵𝘪𝘭𝘭 𝘩𝘢𝘱𝘱𝘦𝘯𝘦𝘥 𝘢𝘵 3 𝘈𝘔.
 
 
 <h3 align="left">Connect with me:</h3>
@@ -101,7 +99,6 @@
 <!-- <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThisAkshat&theme=transparent&hide_border=false"> -->
 
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ThisAkshat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github-trophies.vercel.app/?username=ThisAkshat&theme=matrix)
@@ -112,6 +109,8 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+![snake gif](https://github.com/ThisAkshat/ThisAkshat/blob/output/github-snake-dark.svg)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThisAkshat&icon=0&color=0)](https://visitcount.itsvg.in)
