@@ -117,14 +117,35 @@
 ## 🔥 Proof of Work
 ![](https://github-trophies.vercel.app/?username=ThisAkshat&theme=darkhub&title=Commits,Repositories,LongTimeUser,Star,MultiLanguage)
 
-
+![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-red.svg)
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=00000000) -->
 
 
+<!-- 
+![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-cyan.svg)
+## 🐍 Snake Variants Preview
 
+### Default
+![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake.svg)
+
+### Dark
+![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-dark.svg)
+
+### Blue
+![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-blue.svg)
+
+### Purple
+![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-purple.svg)
+
+### Cyan
 ![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-cyan.svg)
 
+### Matrix
+![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-matrix.svg)
+
+### Red
+![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-red.svg)  -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0D1117&height=60&section=footer"/>
