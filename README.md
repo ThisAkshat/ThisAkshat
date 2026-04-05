@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=4"/>
 
 
-## 💫 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦
+## 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦
 
 - 𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘦𝘯𝘥-𝘵𝘰-𝘦𝘯𝘥 𝘥𝘢𝘵𝘢 𝘢𝘯𝘢𝘭𝘺𝘴𝘪𝘴 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘢𝘯𝘥 𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴, 𝘤𝘰𝘮𝘣𝘪𝘯𝘪𝘯𝘨 𝘢𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘴 𝘸𝘪𝘵𝘩 𝘴𝘰𝘭𝘪𝘥 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨.
 - 𝘖𝘱𝘦𝘯 𝘵𝘰 𝘤𝘰𝘭𝘭𝘢𝘣𝘰𝘳𝘢𝘵𝘪𝘯𝘨 𝘰𝘯 𝘳𝘦𝘢𝘭-𝘸𝘰𝘳𝘭𝘥 𝘥𝘢𝘵𝘢-𝘥𝘳𝘪𝘷𝘦𝘯 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴, 𝘈𝘐/𝘔𝘓 𝘵𝘰𝘰𝘭𝘴, 𝘢𝘯𝘥 𝘤𝘳𝘰𝘴𝘴-𝘧𝘶𝘯𝘤𝘵𝘪𝘰𝘯𝘢𝘭 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴.
@@ -47,7 +47,7 @@
 # 💻 Tech Stack
 
 
-### 👨‍💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
@@ -65,7 +65,7 @@
 
 ---
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=316192)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
@@ -73,7 +73,7 @@
 
 ---
 
-### 🤖 AI / ML
+### AI / ML
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
