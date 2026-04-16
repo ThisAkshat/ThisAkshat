@@ -1,152 +1,168 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1200&color=1F6FEB&background=0D1117&center=true&vCenter=true&width=700&lines=Python+Developer;NLP+%26+Backend+Engineer;Building+Sign-Bridge;Shipping+Real+Projects)
-
-
-<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThisAkshat&theme=github-compact) -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=4"/>
-
-
-## 𝘈𝘣𝘰𝘶𝘵 𝘔𝘦
-
-- 𝘞𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘦𝘯𝘥-𝘵𝘰-𝘦𝘯𝘥 𝘥𝘢𝘵𝘢 𝘢𝘯𝘢𝘭𝘺𝘴𝘪𝘴 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘢𝘯𝘥 𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴, 𝘤𝘰𝘮𝘣𝘪𝘯𝘪𝘯𝘨 𝘢𝘯𝘢𝘭𝘺𝘵𝘪𝘤𝘴 𝘸𝘪𝘵𝘩 𝘴𝘰𝘭𝘪𝘥 𝘦𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨.
-- 𝘖𝘱𝘦𝘯 𝘵𝘰 𝘤𝘰𝘭𝘭𝘢𝘣𝘰𝘳𝘢𝘵𝘪𝘯𝘨 𝘰𝘯 𝘳𝘦𝘢𝘭-𝘸𝘰𝘳𝘭𝘥 𝘥𝘢𝘵𝘢-𝘥𝘳𝘪𝘷𝘦𝘯 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴, 𝘈𝘐/𝘔𝘓 𝘵𝘰𝘰𝘭𝘴, 𝘢𝘯𝘥 𝘤𝘳𝘰𝘴𝘴-𝘧𝘶𝘯𝘤𝘵𝘪𝘰𝘯𝘢𝘭 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴.
-- 𝘓𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘨𝘶𝘪𝘥𝘢𝘯𝘤𝘦 𝘰𝘯 𝘔𝘓 𝘮𝘰𝘥𝘦𝘭 𝘥𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵, 𝘥𝘢𝘵𝘢 𝘱𝘪𝘱𝘦𝘭𝘪𝘯𝘦 𝘰𝘱𝘵𝘪𝘮𝘪𝘻𝘢𝘵𝘪𝘰𝘯, 𝘢𝘯𝘥 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯-𝘭𝘦𝘷𝘦𝘭 𝘴𝘺𝘴𝘵𝘦𝘮 𝘥𝘦𝘴𝘪𝘨𝘯.
-- 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘥𝘢𝘵𝘢 𝘷𝘪𝘴𝘶𝘢𝘭𝘪𝘻𝘢𝘵𝘪𝘰𝘯, 𝘤𝘭𝘰𝘶𝘥 𝘥𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵, 𝘢𝘯𝘥 𝘥𝘪𝘴𝘵𝘳𝘪𝘣𝘶𝘵𝘦𝘥 𝘤𝘰𝘮𝘱𝘶𝘵𝘪𝘯𝘨 𝘧𝘰𝘳 𝘭𝘢𝘳𝘨𝘦-𝘴𝘤𝘢𝘭𝘦 𝘥𝘢𝘵𝘢𝘴𝘦𝘵𝘴.
-- 𝘈𝘴𝘬 𝘮𝘦 𝘢𝘣𝘰𝘶𝘵 𝘤𝘶𝘴𝘵𝘰𝘮𝘦𝘳 𝘣𝘦𝘩𝘢𝘷𝘪𝘰𝘳 & 𝘱𝘪𝘻𝘻𝘢 𝘴𝘢𝘭𝘦𝘴 𝘢𝘯𝘢𝘭𝘺𝘴𝘪𝘴 𝘶𝘴𝘪𝘯𝘨 𝘗𝘺𝘵𝘩𝘰𝘯, 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐, 𝘢𝘯𝘥 𝘚𝘘𝘓, 𝘰𝘳 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘈𝘐-𝘣𝘢𝘴𝘦𝘥 𝘧𝘢𝘤𝘪𝘢𝘭 𝘳𝘦𝘤𝘰𝘨𝘯𝘪𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘴𝘪𝘨𝘯 𝘭𝘢𝘯𝘨𝘶𝘢𝘨𝘦 𝘵𝘳𝘢𝘯𝘴𝘭𝘢𝘵𝘪𝘰𝘯 𝘴𝘺𝘴𝘵𝘦𝘮𝘴.
-- 𝘍𝘶𝘯 𝘧𝘢𝘤𝘵: 𝘚𝘰𝘭𝘷𝘦𝘥 220+ 𝘓𝘦𝘦𝘵𝘊𝘰𝘥𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴, 𝘣𝘶𝘵 𝘵𝘩𝘦 𝘮𝘰𝘴𝘵 𝘴𝘢𝘵𝘪𝘴𝘧𝘺𝘪𝘯𝘨 𝘣𝘶𝘨 𝘧𝘪𝘹 𝘴𝘵𝘪𝘭𝘭 𝘩𝘢𝘱𝘱𝘦𝘯𝘦𝘥 𝘢𝘵 3 𝘈𝘔.
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/the__akshatsharma" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/akshat132005" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://x.com/AkshatShar64224" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-
-<a href="https://youtube.com/@AK_IS13" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-</a>
-
-<a href="mailto:akshatsharma1313@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/u/Akshat_13IS/">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="30" width="40" />
-</a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F7F7&height=60&section=footer"/>
-
-# 💻 Tech Stack
-
-
-### Languages
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart&logoColor=0175C2)
-
----
-
-### 🌐 Web & App
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=092E20)
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=02569B)
-![JavaFX](https://img.shields.io/badge/JavaFX-111111?style=for-the-badge&logo=java&logoColor=FF0000)
-
----
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=316192)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
----
-
-### AI / ML
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=150458)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-
----
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05033)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Power BI](https://img.shields.io/badge/PowerBI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-
-
-## ⚡ SYSTEM ANALYTICS
-
 <div align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThisAkshat&theme=nord_dark"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThisAkshat&theme=nord_dark"/>
 
-<br/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ThisAkshat&theme=transparent&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideLabels=00F7F7&dates=ffffff" width="60%"/>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:003333,100:0D1117&height=200&section=header&text=Akshat%20Sharma&fontSize=60&fontColor=00F7F7&fontAlignY=55&animation=fadeIn&desc=Python%20%7C%20NLP%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=75&descSize=18&descColor=ffffff"/>
 
 </div>
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7F7&background=0D111700&center=true&vCenter=true&width=700&lines=%3E+Python+Developer+%7C+NLP+%26+Backend+Engineer;%3E+Building+Sign-Bridge+%7C+AI+%26+Vision+Systems;%3E+Shipping+Real+Projects+%7C+220%2B+LeetCode+Solved;%3E+Learning+%3A+Cloud+%7C+Distributed+Systems+%7C+MLOps)](https://git.io/typing-svg)
 
+</div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=2"/>
 
-<!-- <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThisAkshat&theme=transparent&hide_border=false"> -->
+<br/>
 
+## `$ whoami`
 
-## 🔥 Proof of Work
-![](https://github-trophies.vercel.app/?username=ThisAkshat&theme=darkhub&title=Commits,Repositories,LongTimeUser,Star,MultiLanguage)
+```yaml
+name        : Akshat Sharma
+role        : Python Developer · NLP & Backend Engineer · AI/ML Builder
+building    : Sign-Bridge — AI-powered sign language translation system
+interests   : Data Analysis · Computer Vision · Scalable Systems
+learning    : Cloud Deployment · Distributed Computing · MLOps
+leetcode    : 220+ problems solved (most satisfying fix? → 3 AM 🌙)
+ask_me_about: Customer behavior analytics · Pizza sales analysis · Facial recognition
+open_to     : Real-world data-driven apps · AI/ML tools · Cross-functional projects
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=2"/>
+
+<br/>
+
+## `$ ./connect.sh`
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/the__akshatsharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat132005)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AkshatShar64224)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@AK_IS13)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatsharma1313@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Akshat_13IS/)
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=2"/>
+
+## `$ cat tech_stack.json`
+
+<details open>
+<summary><b>⚡ Languages</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7F7)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F7F7)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00F7F7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F7F7)
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=00F7F7)
+
+</details>
+
+<details open>
+<summary><b>🌐 Web & App</b></summary>
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00F7F7)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F7F7)
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00F7F7)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00F7F7)
+![JavaFX](https://img.shields.io/badge/JavaFX-0D1117?style=for-the-badge&logo=java&logoColor=00F7F7)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F7F7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F7F7)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00F7F7)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00F7F7)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI / ML</b></summary>
+<br/>
+
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00F7F7)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00F7F7)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=00F7F7)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00F7F7)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00F7F7)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F7F7)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7F7)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00F7F7)
+![Power BI](https://img.shields.io/badge/PowerBI-0D1117?style=for-the-badge&logo=powerbi&logoColor=00F7F7)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00F7F7)
+
+</details>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=2"/>
+
+## `$ system --analytics`
+
+<div align="center">
+
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThisAkshat&theme=nord_dark"/>
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThisAkshat&theme=nord_dark"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ThisAkshat&theme=transparent&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideLabels=00F7F7&dates=ffffff" width="65%"/>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=2"/>
+
+## `$ git log --trophies`
+
+<div align="center">
+
+![Trophies](https://github-trophies.vercel.app/?username=ThisAkshat&theme=darkhub&no-frame=true&no-bg=true&title=Commits,Repositories,LongTimeUser,Star,MultiLanguage&column=5)
+
+</div>
+
+<br/>
+
+## `$ watch -n 1 contribution_snake`
+
+<div align="center">
 
 ![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-red.svg)
 
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=00000000) -->
+</div>
 
+<br/>
 
-<!-- 
-![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-cyan.svg)
-## 🐍 Snake Variants Preview
+<div align="center">
 
-### Default
-![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake.svg)
+```
+╔══════════════════════════════════════════════════════╗
+║      Thanks for visiting. Let's build something.     ║
+║           akshatsharma1313@gmail.com                 ║
+╚══════════════════════════════════════════════════════╝
+```
 
-### Dark
-![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-dark.svg)
+</div>
 
-### Blue
-![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-blue.svg)
-
-### Purple
-![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-purple.svg)
-
-### Cyan
-![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-cyan.svg)
-
-### Matrix
-![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-matrix.svg)
-
-### Red
-![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-red.svg)  -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0D1117&height=60&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0D1117&height=80&section=footer"/>
