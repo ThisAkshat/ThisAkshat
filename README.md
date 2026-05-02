@@ -162,4 +162,5 @@ open_to     : Real-world data-driven apps · AI/ML tools · Cross-functional pro
 
 </div>
 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0D1117&height=80&section=footer"/>
