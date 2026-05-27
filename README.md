@@ -81,7 +81,6 @@ open_to     : Real-world data-driven apps · AI/ML tools · Cross-functional pro
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F7F7)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F7F7)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00F7F7)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00F7F7)
 
 </details>
 
@@ -105,7 +104,6 @@ open_to     : Real-world data-driven apps · AI/ML tools · Cross-functional pro
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7F7)
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00F7F7)
 ![Power BI](https://img.shields.io/badge/PowerBI-0D1117?style=for-the-badge&logo=powerbi&logoColor=00F7F7)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00F7F7)
 
 </details>
 
@@ -117,7 +115,7 @@ open_to     : Real-world data-driven apps · AI/ML tools · Cross-functional pro
 
 <div align="center">
 
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThisAkshat&show_icons=true&theme=transparent&hide_border=true&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff&bg_color=0D1117&ring_color=00F7F7&include_all_commits=true&count_private=true"/> -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThisAkshat&show_icons=true&theme=transparent&hide_border=true&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff&bg_color=0D1117&ring_color=00F7F7&include_all_commits=true&count_private=true"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisAkshat&layout=compact&theme=transparent&hide_border=true&title_color=00F7F7&text_color=ffffff&bg_color=0D1117&langs_count=8"/>
 
 </div>
