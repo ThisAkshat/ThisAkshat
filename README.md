@@ -115,13 +115,6 @@ open_to     : Real-world data-driven apps · AI/ML tools · Cross-functional pro
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThisAkshat&show_icons=true&theme=transparent&hide_border=true&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff&bg_color=0D1117&ring_color=00F7F7&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisAkshat&layout=compact&theme=transparent&hide_border=true&title_color=00F7F7&text_color=ffffff&bg_color=0D1117&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ThisAkshat&theme=transparent&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideLabels=00F7F7&dates=ffffff" width="70%"/>
 
 </div>
