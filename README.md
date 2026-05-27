@@ -111,9 +111,9 @@ open_to     : Real-world data-driven apps · AI/ML tools · Cross-functional pro
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=2"/>
 
-## `$ system --analytics`
+ <!-- ## `$ system --analytics` -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ThisAkshat&theme=transparent&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideLabels=00F7F7&dates=ffffff" width="70%"/>
 
@@ -121,7 +121,7 @@ open_to     : Real-world data-driven apps · AI/ML tools · Cross-functional pro
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=2"/> -->
 
 ## `$ git log --trophies`
 
