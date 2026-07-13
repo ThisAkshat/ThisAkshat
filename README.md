@@ -1,5 +1,4 @@
 <div align="center"> 
-  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:003333,100:0D1117&height=200&section=header&text=Akshat%20Sharma&fontSize=60&fontColor=00F7F7&fontAlignY=55&animation=fadeIn&desc=Python%20%7C%20NLP%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=75&descSize=18&descColor=ffffff"/>
 </div>
 
