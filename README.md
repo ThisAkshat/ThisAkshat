@@ -1,7 +1,7 @@
 <div align="center"> 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:003333,100:0D1117&height=200&section=header&text=Akshat%20Sharma&fontSize=60&fontColor=00F7F7&fontAlignY=55&animation=fadeIn&desc=Python%20%7C%20NLP%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=75&descSize=18&descColor=ffffff"/>
 </div>
- 
+  
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7F7&background=0D111700&center=true&vCenter=true&width=700&lines=%3E+Python+Developer+%7C+NLP+%26+Backend+Engineer;%3E+Building+Sign-Bridge+%7C+AI+%26+Vision+Systems;%3E+Shipping+Real+Projects+%7C+220%2B+LeetCode+Solved;%3E+Learning+%3A+Cloud+%7C+Distributed+Systems+%7C+MLOps)](https://git.io/typing-svg)
