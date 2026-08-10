@@ -56,7 +56,6 @@ open_to     : Real-world data-driven apps · AI/ML tools · Cross-functional pro
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F7F7)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00F7F7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F7F7)
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=00F7F7)
 
 </details>
 
@@ -67,7 +66,6 @@ open_to     : Real-world data-driven apps · AI/ML tools · Cross-functional pro
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00F7F7)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F7F7)
 ![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00F7F7)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00F7F7)
 ![JavaFX](https://img.shields.io/badge/JavaFX-0D1117?style=for-the-badge&logo=java&logoColor=00F7F7)
 
 </details>
