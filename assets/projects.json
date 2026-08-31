@@ -2,10 +2,6 @@
   "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description.",
   "projects": [
     {
-      "repo": "SignBridge",
-      "description": "An AI-powered Indian Sign Language translator that recognises gestures in real time and converts them into text and speech for more accessible communication."
-    },
-    {
       "repo": "Phantom",
       "description": "An intelligent AI-powered application built to simplify everyday tasks through automation, smart interactions, and practical AI-driven features."
     },
