@@ -1,154 +1,208 @@
-<div align="center"> 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:5C0E1A,100:0D1117&height=200&section=header&text=Akshat%20Sharma&fontSize=60&fontColor=E8A0A8&fontAlignY=55&animation=fadeIn&desc=Python%20%7C%20NLP%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=75&descSize=18&descColor=ffffff"/>
+<div align="center">
+
+<!-- NAME / TAGLINE - animated typing -->
+
+<a href="https://github.com/ThisAkshat">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=00F7F7&center=true&vCenter=true&width=600&lines=Akshat+Sharma;Python+%7C+AI%2FML+%7C+NLP+%7C+Backend;Machine+Learning+%26+Computer+Vision;AI-Powered+Application+Builder;01100001+01101011+01110011+01101000+01100001+01110100" alt="typing banner">
+</a>
+
+<br>
+
+<!-- SOCIALS -->
+
+<a href="https://linkedin.com/in/akshat132005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:akshatsharma1313@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://leetcode.com/u/Akshat_13IS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a> <a href="https://instagram.com/the__akshatsharma"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://x.com/AkshatShar64224"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a> <a href="https://youtube.com/@AK_IS13"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+
+<img src="https://komarev.com/ghpvc/?username=ThisAkshat&style=flat&color=00f7f7&label=profile+views" alt="profile views">
+
 </div>
-  
-<!-- <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7F7&background=0D111700&center=true&vCenter=true&width=700&lines=%3E+Python+Developer+%7C+NLP+%26+Backend+Engineer;%3E+Building+Sign-Bridge+%7C+AI+%26+Vision+Systems;%3E+Shipping+Real+Projects+%7C+220%2B+LeetCode+Solved;%3E+Learning+%3A+Cloud+%7C+Distributed+Systems+%7C+MLOps)](https://git.io/typing-svg)
+---
 
-</div>  -->
+## `~/` whoami
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=2"/>
-
-<br/>
- 
-## `$ whoami`
-
-```yaml
-name        : Akshat Sharma
-role        : Python Developer · NLP & Backend Engineer · AI/ML Builder
-building    : Sign-Bridge — AI-powered sign language translation system
-interests   : Data Analysis · Computer Vision · Scalable Systems
-learning    : Cloud Deployment · Distributed Computing · MLOps
-leetcode    : 220+ problems solved (most satisfying fix? → 3 AM 🌙)
-ask_me_about: Customer behavior analytics · Pizza sales analysis · Facial recognition
-open_to     : Real-world data-driven apps · AI/ML tools · Cross-functional projects
+```console
+$ cat about.txt
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=2"/>
+Hi, I'm **Akshat Sharma**. I build things at the intersection of artificial intelligence,
+machine learning, backend engineering, and real-world problem solving.
 
-<br/>
+* Currently building **AI/ML applications with Python**
+* Built **SignBridge, Phantom, Talaash and Vratam**
+* Working with **NLP, Computer Vision, Deep Learning and Data Analysis**
+* Solved **220+ LeetCode problems**
+* Learning **Cloud Deployment, Distributed Systems and MLOps**
+* Fun fact: **I enjoy turning ideas into systems that actually work.**
 
-## `$ ./connect.sh`
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/the__akshatsharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat132005)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AkshatShar64224)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@AK_IS13)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatsharma1313@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Akshat_13IS/)
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=2"/>
-
-## `$ cat tech_stack.json`
-
-<details open>
-<summary><b>⚡ Languages</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7F7)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F7F7)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00F7F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F7F7)
-
-</details>
-
-<details open>
-<summary><b>🌐 Web & App</b></summary>
-<br/>
-
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00F7F7)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F7F7)
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00F7F7)
-![JavaFX](https://img.shields.io/badge/JavaFX-0D1117?style=for-the-badge&logo=java&logoColor=00F7F7)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
-
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F7F7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F7F7)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00F7F7)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI / ML</b></summary>
-<br/>
-
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00F7F7)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00F7F7)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=00F7F7)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00F7F7)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00F7F7)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F7F7)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7F7)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00F7F7)
-![Power BI](https://img.shields.io/badge/PowerBI-0D1117?style=for-the-badge&logo=powerbi&logoColor=00F7F7)
-
-</details>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=2"/>
-
- <!-- ## `$ system --analytics` -->
-
-<!-- <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ThisAkshat&theme=transparent&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&sideLabels=00F7F7&dates=ffffff" width="70%"/>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00F7F7,100:0D1117&height=2"/> -->
-
-## `$ git log --trophies`
+<br>
 
 <div align="center">
 
-![Trophies](https://github-trophies.vercel.app/?username=ThisAkshat&theme=darkhub&no-frame=true&no-bg=true&title=Commits,Repositories,LongTimeUser,Star,MultiLanguage&column=5)
+## `~/` toolbox
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,html,css,django,fastapi,flask,mysql,postgres,mongodb,tensorflow,pytorch,opencv,git,github,postman,vscode&perline=11" alt="tech stack">
 
 </div>
 
-<br/>
-
-## `$ watch -n 1 contribution_snake`
+---
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-red.svg)
+## `~/` skill radar
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="middle">
+
+### AI / ML
+
+`Python` `TensorFlow` `PyTorch`
+`Scikit-Learn` `NumPy` `Pandas`
+`OpenCV` `MediaPipe` `NLP`
+`Computer Vision` `Deep Learning`
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+### Backend / Development
+
+`FastAPI` `Flask` `Django`
+`Node.js` `Express` `React`
+`MySQL` `PostgreSQL` `MongoDB`
+`REST APIs` `Git` `GitHub`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
+
+## `~/` contribution calendar
+
+<!-- Snake eats the contribution graph - KEEPING THE ORIGINAL SNAKE -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-red.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-red.svg">
+  <img src="https://raw.githubusercontent.com/ThisAkshat/ThisAkshat/output/github-snake-red.svg" width="100%" alt="snake eating the contribution graph">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` the numbers
+
+<!-- GitHub statistics -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=ThisAkshat&show_icons=true&theme=transparent&hide_border=true&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff" width="480" alt="GitHub statistics">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisAkshat&layout=compact&theme=transparent&hide_border=true&title_color=00F7F7&text_color=ffffff" height="165" alt="most used languages">
+
+<br><br>
+
+<img src="https://github-trophies.vercel.app/?username=ThisAkshat&theme=darkhub&no-frame=true&no-bg=true&title=Commits,Repositories,LongTimeUser,Star,MultiLanguage&column=5" width="90%" alt="GitHub achievements">
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` selected work
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+  <a href="https://github.com/ThisAkshat/SignBridge">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║      Thanks for visiting. Let's build something.     ║
-║           akshatsharma1313@gmail.com                 ║
-╚══════════════════════════════════════════════════════╝
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThisAkshat&repo=SignBridge&theme=transparent&hide_border=true&title_color=00F7F7&text_color=ffffff&icon_color=00F7F7" width="420" alt="SignBridge">
 ```
+
+  </a>
+
+</td>
+
+<td width="50%">
+
+  <a href="https://github.com/ThisAkshat/Phantom">
+
+```
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThisAkshat&repo=Phantom&theme=transparent&hide_border=true&title_color=00F7F7&text_color=ffffff&icon_color=00F7F7" width="420" alt="Phantom">
+```
+
+  </a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+  <a href="https://github.com/ThisAkshat/Talaash">
+
+```
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThisAkshat&repo=Talaash&theme=transparent&hide_border=true&title_color=00F7F7&text_color=ffffff&icon_color=00F7F7" width="420" alt="Talaash">
+```
+
+  </a>
+
+</td>
+
+<td width="50%">
+
+  <a href="https://github.com/ThisAkshat/Vratam">
+
+```
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ThisAkshat&repo=Vratam&theme=transparent&hide_border=true&title_color=00F7F7&text_color=ffffff&icon_color=00F7F7" width="420" alt="Vratam">
+```
+
+  </a>
+
+</td>
+
+</tr>
+
+</table>
+
+<sub>
+
+| project                                                    | description                                                                   | stack                                                     |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------- |
+| **[SignBridge](https://github.com/ThisAkshat/SignBridge)** | AI-powered Indian Sign Language translation system                            | `Python` `TensorFlow` `MediaPipe` `OpenCV` `Flutter`      |
+| **[Phantom](https://github.com/ThisAkshat/Phantom)**       | AI-powered application built around intelligent automation                    | `Python` `AI/ML` `Backend`                                |
+| **[Talaash](https://github.com/ThisAkshat/Talaash)**       | AI-powered lost-and-found platform using facial recognition                   | `Node.js` `Express` `OpenCV` `DeepFace` `MongoDB` `React` |
+| **[Vratam](https://github.com/ThisAkshat/Vratam)**         | AI-powered habit tracking with analytics, notifications and Gemini assistance | `AI` `Gemini` `Analytics`                                 |
+
+</sub>
 
 </div>
 
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0D1117&height=80&section=footer"/>
+<div align="center">
+
+<sub>
+
+`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`
+
+</sub>
+
+</div>
