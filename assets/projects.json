@@ -2,16 +2,16 @@
   "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description.",
   "projects": [
     {
-      "repo": "Phantom",
+      "repo": "PHANTOM-AI-Cyber-Threat-Analyzer",
       "description": "An intelligent AI-powered application built to simplify everyday tasks through automation, smart interactions, and practical AI-driven features."
     },
     {
-      "repo": "Talaash",
+      "repo": "VISION_TALAASH_INNOTHON2.0",
       "description": "An AI-powered lost-and-found platform that uses facial recognition to help identify missing people and connect them with relevant reports."
     },
     {
-      "repo": "Vratam",
-      "description": "An AI-powered habit tracking app that turns daily routines into measurable progress with habit tracking, monthly spider charts, personalised insights, notifications, and Gemini-powered assistance."
+      "repo": "DSA-Python",
+      "description": "This Repo is of DSA questions in python programming Language"
     }
   ]
 }
