@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/ThisAkshat">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=800000&center=true&vCenter=true&width=600&lines=Akshat+Sharma;Python+%7C+AI%2FML+%7C+NLP+%7C+Backend;Machine+Learning+%26+Computer+Vision;AI-Powered+Application+Builder;01100001+01101011+01110011+01101000+01100001+01110100" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=00FF00&center=true&vCenter=true&width=600&lines=Akshat+Sharma;Python+%7C+AI%2FML+%7C+NLP+%7C+Backend;Machine+Learning+%26+Computer+Vision;AI-Powered+Application+Builder;01100001+01101011+01110011+01101000+01100001+01110100" alt="typing banner">
 </a>
 
 <br>
