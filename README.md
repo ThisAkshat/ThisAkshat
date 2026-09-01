@@ -45,7 +45,7 @@ machine learning, backend engineering, and real-world problem solving.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,html,css,django,fastapi,flask,mysql,postgres,mongodb,tensorflow,pytorch,opencv,git,github,postman,vscode&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,django,fastapi,flask,mysql,postgres,mongodb,tensorflow,pytorch,opencv,git,github,php,postman,vscode&perline=11" alt="tech stack">
 
 </div>
 
