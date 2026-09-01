@@ -1,22 +1,15 @@
 <div align="center">
 
-<!-- PORTRAIT -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/portrait-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-light.svg">
-  <img src="assets/portrait-dark.svg" width="300" alt="Akshat Sharma, rendered as a dot matrix">
-</picture>
+<img src="assets/portrait.svg" width="300" alt="Akshat Sharma, rendered as a dot matrix">
 
 <br>
 
-<!-- NAME / TAGLINE -->
 <a href="https://github.com/ThisAkshat">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=00F7F7&center=true&vCenter=true&width=600&lines=Akshat+Sharma;Python+%7C+AI%2FML+%7C+NLP+%7C+Backend;Machine+Learning+%26+Computer+Vision;AI-Powered+Application+Builder;01100001+01101011+01110011+01101000+01100001+01110100" alt="typing banner">
 </a>
 
 <br>
 
-<!-- SOCIALS -->
 <a href="https://linkedin.com/in/akshat132005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:akshatsharma1313@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://leetcode.com/u/Akshat_13IS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
