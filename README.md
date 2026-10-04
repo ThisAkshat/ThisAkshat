@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="assets/portrait.svg" width="300" alt="Akshat Sharma, rendered as a dot matrix">
 
 <br>
